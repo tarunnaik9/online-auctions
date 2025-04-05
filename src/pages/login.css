@@ -1,0 +1,32 @@
+.form-box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .form-box h2 {
+    margin-bottom: 20px;
+  }
+  
+  .custom-input {
+    border-radius: 8px !important;  /* Add !important to force the styles */
+    margin-bottom: 15px;
+  }
+  
+  .submit-btn {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px !important; /* Add !important to override any existing styles */
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3 !important; /* Add !important for hover effect */
+  }
+  
+  button {
+    text-align: center;
+  }
+  
